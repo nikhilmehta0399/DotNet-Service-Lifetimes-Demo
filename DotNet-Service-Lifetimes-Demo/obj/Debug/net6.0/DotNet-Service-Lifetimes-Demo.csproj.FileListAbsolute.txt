@@ -1,0 +1,71 @@
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\DotNet-Service-Lifetimes-Demo.csproj.AssemblyReference.cache
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\rpswa.dswa.cache.json
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\DotNet-Service-Lifetimes-Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\DotNet-Service-Lifetimes-Demo.AssemblyInfoInputs.cache
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\DotNet-Service-Lifetimes-Demo.AssemblyInfo.cs
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\DotNet-Service-Lifetimes-Demo.csproj.CoreCompileInputs.cache
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\DotNet-Service-Lifetimes-Demo.MvcApplicationPartsAssemblyInfo.cs
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\DotNet-Service-Lifetimes-Demo.MvcApplicationPartsAssemblyInfo.cache
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\bin\Debug\net6.0\appsettings.Development.json
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\bin\Debug\net6.0\appsettings.json
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\bin\Debug\net6.0\DotNet-Service-Lifetimes-Demo.staticwebassets.endpoints.json
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\bin\Debug\net6.0\DotNet-Service-Lifetimes-Demo.exe
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\bin\Debug\net6.0\DotNet-Service-Lifetimes-Demo.deps.json
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\bin\Debug\net6.0\DotNet-Service-Lifetimes-Demo.runtimeconfig.json
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\bin\Debug\net6.0\DotNet-Service-Lifetimes-Demo.dll
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\bin\Debug\net6.0\DotNet-Service-Lifetimes-Demo.pdb
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\rjimswa.dswa.cache.json
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\scopedcss\bundle\DotNet-Service-Lifetimes-Demo.styles.css
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\staticwebassets.build.json
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\staticwebassets.build.json.cache
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\staticwebassets.development.json
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\DotNet-S.A7AD758A.Up2Date
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\DotNet-Service-Lifetimes-Demo.dll
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\refint\DotNet-Service-Lifetimes-Demo.dll
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\DotNet-Service-Lifetimes-Demo.pdb
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\DotNet-Service-Lifetimes-Demo.genruntimeconfig.cache
+D:\Nikhil Projects\DotNet-Service-Lifetimes-Demo\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\ref\DotNet-Service-Lifetimes-Demo.dll
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\bin\Debug\net6.0\appsettings.Development.json
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\bin\Debug\net6.0\appsettings.json
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\bin\Debug\net6.0\DotNet-Service-Lifetimes-Demo.staticwebassets.endpoints.json
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\bin\Debug\net6.0\DotNet-Service-Lifetimes-Demo.exe
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\bin\Debug\net6.0\DotNet-Service-Lifetimes-Demo.deps.json
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\bin\Debug\net6.0\DotNet-Service-Lifetimes-Demo.runtimeconfig.json
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\bin\Debug\net6.0\DotNet-Service-Lifetimes-Demo.dll
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\bin\Debug\net6.0\DotNet-Service-Lifetimes-Demo.pdb
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\DotNet-Service-Lifetimes-Demo.csproj.AssemblyReference.cache
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\rpswa.dswa.cache.json
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\DotNet-Service-Lifetimes-Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\DotNet-Service-Lifetimes-Demo.AssemblyInfoInputs.cache
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\DotNet-Service-Lifetimes-Demo.AssemblyInfo.cs
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\DotNet-Service-Lifetimes-Demo.csproj.CoreCompileInputs.cache
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\DotNet-Service-Lifetimes-Demo.MvcApplicationPartsAssemblyInfo.cs
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\DotNet-Service-Lifetimes-Demo.MvcApplicationPartsAssemblyInfo.cache
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\DotNet-Service-Lifetimes-Demo.sourcelink.json
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\rjimswa.dswa.cache.json
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\scopedcss\bundle\DotNet-Service-Lifetimes-Demo.styles.css
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\staticwebassets.build.json
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\staticwebassets.build.json.cache
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\staticwebassets.development.json
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\DotNet-S.A7AD758A.Up2Date
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\DotNet-Service-Lifetimes-Demo.dll
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\refint\DotNet-Service-Lifetimes-Demo.dll
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\DotNet-Service-Lifetimes-Demo.pdb
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\DotNet-Service-Lifetimes-Demo.genruntimeconfig.cache
+D:\Nikhil Projects\Sample projects\DotNet-Service-Lifetimes-Demo\obj\Debug\net6.0\ref\DotNet-Service-Lifetimes-Demo.dll
